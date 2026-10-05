@@ -1,10 +1,10 @@
 export const startAnimation = 'https://graph.org/file/11ee64f9e1366166ece1e-f65e28b04247fdb8bf.mp4'
 export const donateAnimation = 'https://graph.org/file/e64807a85f15706730cb2-b2e366b966eede7966.mp4'
 
-export const startMessage = `👋 <b>ʜᴇʏ, UserName ♡ !!</b>
+export const startMessage = `👋 <b>ʜᴇʏ, UserName !!</b>
 
 <blockquote expandable><b>ɪ ᴀᴍ sɪᴍᴘʟᴇ ʙᴜᴛ ᴘᴏᴡᴇʀꜰᴜʟʟ 
-ᴀᴜᴛᴏ ʀᴇᴀᴄᴛɪᴏɴ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟs!.
+ᴀᴜᴛᴏ ʀᴇᴀᴄᴛɪᴏɴ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟs.
         
 ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀs ᴀ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ.</b></blockquote>
 

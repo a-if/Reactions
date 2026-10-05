@@ -3,13 +3,12 @@ export const donateAnimation = 'https://graph.org/file/e64807a85f15706730cb2-b2e
 
 export const startMessage = `👋 <b>ʜᴇʏ, UserName ♡ !!</b>
 
-<blockquote expandable><b>I AM SIMPLE BUT POWERFULL
-AUTO REACTION BOT FOR TELEGRAM CHANNELS!.
+<blockquote expandable><b>ɪ ᴀᴍ sɪᴍᴘʟᴇ ʙᴜᴛ ᴘᴏᴡᴇʀꜰᴜʟʟ 
+ᴀᴜᴛᴏ ʀᴇᴀᴄᴛɪᴏɴ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟs!.
+        
+ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀs ᴀ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ.</b></blockquote>
 
-JUST ADD ME AS A ADMIN IN YOUR CHANNEL
-THEN SEE MY POWER.</b></blockquote>
-
-<blockquote><b>MAINTAINED BY :</b> <a href="https://t.me/PythonBotz">Python Botz 🐍</a></blockquote>`
+<blockquote><b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :</b> <a href="https://t.me/PythonBotz">Python Botz 🐍</a></blockquote>`
 
 export const donateMessage = `🙏 Support Auto Reaction Bot ✨ and help us stay online and continue to improve! ✨ Your donations keep our services live and enable us to bring you new features and enhancements. Every star makes a difference! Thank you! 🌟🚀`
 

@@ -1,0 +1,22 @@
+name = "auto-reaction-bot"
+main = "api/worker.js"
+compatibility_date = "2024-06-02"
+
+# Database for /stats and /broadcast (free plan)
+# Create it with: npx wrangler d1 create reaction-bot   -> paste the database_id below
+[[d1_databases]]
+binding = "DB"
+database_name = "reaction-bot"
+database_id = "PASTE_D1_DATABASE_ID"
+
+# Queue used by /broadcast (free plan)
+# Create it with: npx wrangler queues create broadcast-queue
+[[queues.producers]]
+binding = "BROADCAST_QUEUE"
+queue = "broadcast-queue"
+
+[[queues.consumers]]
+queue = "broadcast-queue"
+max_batch_size = 1
+max_concurrency = 1
+max_retries = 1
